@@ -22,7 +22,7 @@ Este é um guia para criar um bot para WhatsApp usando Python e Selenium.
 3. **Instale o Selenium**:
    - Você pode instalar o Selenium usando o pip:
 
-  `` pip install  ``
+  `` pip install  selenium ``
 
 
 4. **Google Chrome**:
@@ -41,9 +41,9 @@ Certifique-se de usar a automação do WhatsApp de maneira ética e responsável
 
 **Referências**:
 
-- Selenium Python Documentation
-- ChromeDriver Downloads
-- WhatsApp Web
+- Selenium Python Documentation 🔗 https://selenium-python.readthedocs.io/
+- ChromeDriver Downloads 🔗 https://sites.google.com/a/chromium.org/chromedriver/downloads
+- WhatsApp Web 🔗 https://web.whatsapp.com/
 
 
 Este README fornece informações básicas sobre a criação de um bot para WhatsApp e inclui detalhes sobre requisitos, configuração, um exemplo de código e referências úteis. Certifique-se de adaptar o README às suas próprias necessidades e detalhes específicos do seu projeto.
